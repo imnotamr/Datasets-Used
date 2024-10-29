@@ -1,6 +1,8 @@
 # 📊 Datasets for Machine Learning Projects
 This directory contains various datasets used for machine learning, data analysis, and visualization tasks. Each dataset serves a specific purpose and covers different domains, providing a range of options for exploratory data analysis, regression, classification, and more.
 
+## "I haven't uploaded all of the datasets I've used yet :)" ## 
+
 # 📁 Dataset Descriptions
 1)	Advertising.csv
 •	Description: Contains data on advertising expenditures across different channels (TV, Radio, Newspaper) and their impact on sales.
